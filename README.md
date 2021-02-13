@@ -7,7 +7,7 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
-**Thanks! You just added 1 more, 😉**
+**Thanks! You just added 1 more 😉**
 <!--
 **Car-ElWilliams/Car-ElWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
