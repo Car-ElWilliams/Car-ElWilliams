@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Car-ElWilliams&show_icons=true&theme=radical)
 
-I'm currently studing to become a fullsatck developer with a specialization in javascript at the <ins>Information Technology College of Gothenburgh.
+I'm currently studing to become a fullsatck developer with a specialization in javascript at the **Information Technology College of Gothenburgh**.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
