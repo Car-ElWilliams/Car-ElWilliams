@@ -1,8 +1,8 @@
 # Hello I'm Car-El!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Car-ElWilliams&show_icons=true&theme=radical)
-
 I'm currently studing to become a fullsatck developer with a specialization in javascript at the **Information Technology College of Gothenburgh**.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Car-ElWilliams&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
