@@ -16,7 +16,9 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 - React
 - Databases
 - Vue & React Native 
-- More advanced JavaScript\
+- More advanced JavaScript
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=Car-ElWilliams)\
