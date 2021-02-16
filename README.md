@@ -7,6 +7,16 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 
 
 ![](https://komarev.com/ghpvc/?username=Car-ElWilliams)
+
+## SKills That I Possess So Far
+-  Intermedite skills of vanilla JavaScript, HTML & CSS
+-  Intermediate skills of Vue.js
+-  GSAP animation basics
+-  UX/UI fundamental knolwedge (I handle figma very well)
+-  Git fundamentals
+-  Quick & disciplined learner 😉
+
+
 **Thanks! You just added 1 more 😉**
 <!--
 **Car-ElWilliams/Car-ElWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
