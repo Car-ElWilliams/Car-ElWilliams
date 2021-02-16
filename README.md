@@ -11,8 +11,8 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 -  GSAP animation basics
 -  UX/UI fundamental knolwedge (I handle figma very well)
 -  Git fundamentals
--  Quick & disciplined learner 😉\
-\
+-  Quick & disciplined learner 😉\\
+
 
 ![](https://komarev.com/ghpvc/?username=Car-ElWilliams)
 
