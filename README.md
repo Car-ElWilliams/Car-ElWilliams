@@ -14,7 +14,7 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 -  Quick & disciplined learner 😉\
 
 
-![](https://komarev.com/ghpvc/?username=Car-ElWilliams)
+![](https://komarev.com/ghpvc/?username=Car-ElWilliams)\
 **Thanks! You just added 1 more 😉**
 
 
