@@ -9,7 +9,7 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 -  Intermedite skills of vanilla JavaScript, HTML & CSS
 -  Intermediate skills of Vue.js & building PWA's
 -  GSAP animation basics
--  UX/UI fundamental knolwedge (I handle figma very well)
+-  UX/UI fundamental knowledge (I handle figma very well)
 -  Git fundamentals
 -  Quick & disciplined learner
 ### (Upcoming)
