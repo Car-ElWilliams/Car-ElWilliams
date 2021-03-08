@@ -1,6 +1,6 @@
 # Hello I'm Car-El!
 
-I'm currently studing to become a fullsatck developer with a specialization in JavaScript at the **Information Technology College of Gothenburgh**.
+I'm currently studing to become a JavaScript developer at the **Information Technology College of Gothenburgh**.
 Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla JavaScript** (React coming up soon😎).  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Car-ElWilliams&show_icons=true&theme=radical)
