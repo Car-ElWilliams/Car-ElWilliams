@@ -6,6 +6,7 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Car-ElWilliams&show_icons=true&theme=radical)
 
 ## SKills That I Possess So Far
+-  Strong React Native skills
 -  Intermedite skills of vanilla JavaScript, HTML & CSS
 -  Intermediate skills of Vue.js, React & building PWA's
 -  GSAP animation basics
@@ -13,8 +14,7 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 -  Git fundamentals (including agile workflows like Scrum)
 -  Quick & disciplined learner
 ### (Upcoming)
-- Databases
-- Vue & React Native 
+- Databases 
 - More advanced JavaScript
 
 
