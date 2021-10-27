@@ -7,8 +7,8 @@ Feel free to checkout my projects, they are bulit with **Vue** and **Vanilla Jav
 
 ## SKills That I Possess So Far
 -  Strong React Native skills
--  Intermedite skills of vanilla JavaScript, HTML & CSS
--  Intermediate skills of Vue.js, React & building PWA's
+-  Strong skills of vanilla JavaScript, React, HTML & CSS
+-  Intermediate skills of Vue.js & building PWA's
 -  GSAP animation basics
 -  UX/UI fundamental knowledge (I handle figma very well)
 -  Git fundamentals (including agile workflows like Scrum)
