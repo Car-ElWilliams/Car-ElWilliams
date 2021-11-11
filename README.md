@@ -1,8 +1,7 @@
 # Hello I'm Car-El!
 
 I'm currently studing to become a JavaScript developer at the **Information Technology College of Gothenburgh**.
-Feel free to checkout my projects, they are bulit with **React**, **React Native**, **Vue** and **Vanilla JavaScript**.  
-For showcasing of private repos contact me.
+Feel free to checkout my projects, they are bulit with **React**, **React Native**, **Vue** and **Vanilla JavaScript**. For showcasing of private repos contact me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Car-ElWilliams&show_icons=true&theme=radical)
 
